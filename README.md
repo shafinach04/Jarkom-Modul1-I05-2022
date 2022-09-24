@@ -34,8 +34,16 @@ I was looking through one by one in info section. Found in the tcp.stream eq 12.
 Name the file found in the format [group_name].des3 and save the output file with the name “flag.txt”
 
 ## Answer
-Saving the decrpty file in stream 29 which contain text like this that have to be decrypt and guess the password of the file. Save the data/file as io5.de3
+Saving the decrpty file in stream 29 which contain text like this that have to be decrypt and guess the password of the file. Save the data/file as io5.de3.
 
 <img width="633" alt="stream29" src="https://user-images.githubusercontent.com/112922727/192083166-7cdec58f-0945-45cf-8f85-76d2eff5f320.png">
+
+## 10
+## Question
+Find the secret password (flag) of the above-mentioned underground organization!
+
+## Answer
+I already tried to decrypt through command prompter but failed since its stated cannot open the file.
+<img width="670" alt="cannot" src="https://user-images.githubusercontent.com/112922727/192083549-a4f4cc2f-8cb7-469e-bdf4-4c7ccc8153ab.png">
 
 
