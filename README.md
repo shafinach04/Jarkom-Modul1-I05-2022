@@ -17,6 +17,13 @@
 Mention the web server used on "monta.if.its.ac.id"
 
 ## Answer
+To find the web server that is used type into the filter bar ==http.host == monta.if.its.ac.id
+
+Then click right on the blue highlight and click follow & choose TCP Stream
+
+
+
+
 
 ## 5
 ## Question
