@@ -24,6 +24,38 @@ To find the web server that is used type into the filter bar ==http.host == mont
 Then click right on the blue highlight and click follow & choose TCP Stream and it will show the web server that is used 
 ![1664010125784](https://user-images.githubusercontent.com/100435004/192090208-30f03863-9d07-4ff6-bd57-a5e77b925d12.jpg)
 
+## 2
+## Question
+Ishaq was confused looking for TA topics for this semester, then he came to the monta website and found the topic details on the website “monta.if.its.ac.id”, what TA title did Ishaq open?
+
+## Answer 
+Type into the filter bar "ip.host == 103.94.189.5 && tcp contains detailTopik"
+![1664010125784](https://user-images.githubusercontent.com/100435004/192090533-6128d89d-ea12-4500-8eb0-9620a5140284.jpg)
+
+After that, choose export objects and save all. Choose the “194” file.
+![1664011446996](https://user-images.githubusercontent.com/100435004/192090625-1bfb5888-aae4-46b7-ad5a-7cf0153e29e0.jpg)
+
+
+## 3 
+## Question 
+Filter so that wireshark only shows packets going to port 80!
+
+## Answer 
+To filter the port going into Port 80 type into the filter bar: " tcp.dstport == 80"
+![1664011542030](https://user-images.githubusercontent.com/100435004/192090698-8d979593-f662-4fb0-9ac7-7ef7336602b0.jpg)
+
+## 4 
+## Question
+Filter so that wireshark only picks up packets coming from port 21!
+
+## Answer 
+To filter the port that it only picks up coming from port 21 type into the filter bar: "tcp.srcport == 21"
+![1664011640982](https://user-images.githubusercontent.com/100435004/192090794-c28a7c99-e253-4ca6-9b82-3401ce8cd147.jpg)
+![1664011745967](https://user-images.githubusercontent.com/100435004/192090897-99fef3f7-996b-4b1c-b593-691cc721f520.jpg)
+
+
+
+
 
 
 
