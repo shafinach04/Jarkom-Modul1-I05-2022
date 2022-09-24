@@ -16,7 +16,7 @@
 ## Question
 Mention the web server used on "monta.if.its.ac.id"
 
-##Answer
+## Answer
 
 
 
@@ -24,7 +24,7 @@ Mention the web server used on "monta.if.its.ac.id"
 ## Question
 Browse the flow of packets in the given .pcap file
 
-##Answer
+## Answer
 I was looking through one by one in info section. Found in the tcp.stream eq 12. The .pcap file was in it and by click right choose Follow -> TCP Stream will show the conversation between two students regarding cheating in practicum activities.
 
 <img width="638" alt="conv" src="https://user-images.githubusercontent.com/112922727/192083018-a0be505c-50ab-499c-89ed-7638db53a682.png">
@@ -33,7 +33,7 @@ I was looking through one by one in info section. Found in the tcp.stream eq 12.
 ## Question
 Name the file found in the format [group_name].des3 and save the output file with the name “flag.txt”
 
-##Answer
+## Answer
 Saving the decrpty file in stream 29 which contain text like this that have to be decrypt and guess the password of the file. Save the data/file as io5.de3
 
 <img width="633" alt="stream29" src="https://user-images.githubusercontent.com/112922727/192083166-7cdec58f-0945-45cf-8f85-76d2eff5f320.png">
