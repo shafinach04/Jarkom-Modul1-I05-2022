@@ -35,14 +35,11 @@ To find packet lipi.go.id, we filter with “tcp contains lipi.go.id”
 ## 7
 ## Question
 Filter so that wireshark only picks up packets coming from your ip!
-![Screen Shot 2022-09-24 at 14 50 33](https://user-images.githubusercontent.com/112918215/192087144-f2f1f989-9fa1-48a5-8aac-5ceb8804d04f.jpeg)
 ## Answer
 First, open terminal and find the IP Address with command "ifconfig en0".
-
-
+![Screen Shot 2022-09-24 at 14 50 33](https://user-images.githubusercontent.com/112918215/192087144-f2f1f989-9fa1-48a5-8aac-5ceb8804d04f.jpeg)
 Copy the IP Address and also open Wireshark, then insert "ip.src == own IP Address" into filter bar.
-
-
+![Screen Shot 2022-09-24 at 14 53 01](https://user-images.githubusercontent.com/112918215/192087148-88f4d271-f97d-479b-a7ad-c312d5440c96.jpeg)
 
 ## 8
 ## Question
