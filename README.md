@@ -18,6 +18,30 @@ Mention the web server used on "monta.if.its.ac.id"
 
 ## Answer
 
+## 5
+## Question
+Filter so that wireshark only picks up packets coming from port 443!
+
+## Answer
+To filter the port that it only picks up coming from port 443 type into the filter bar: "tcp.srcport == 443"
+
+## 6
+## Question
+Filter so that wireshark only shows packets going to lipi.go.id !
+
+## Answer
+To find packet lipi.go.id, we filter with “tcp contains lipi.go.id”
+
+## 7
+## Question
+Filter so that wireshark only picks up packets coming from your ip!
+
+## Answer
+First, open terminal and find the IP Address with command "ifconfig en0".
+
+
+Copy the IP Address and also open Wireshark, then insert "ip.src == own IP Address" into filter bar.
+
 
 
 ## 8
