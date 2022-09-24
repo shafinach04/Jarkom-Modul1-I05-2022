@@ -21,7 +21,9 @@ To find the web server that is used type into the filter bar ==http.host == mont
 ![1664010125784](https://user-images.githubusercontent.com/100435004/192090048-41492745-676e-434b-a760-c7cc99ffb07e.jpg)
 
 
-Then click right on the blue highlight and click follow & choose TCP Stream
+Then click right on the blue highlight and click follow & choose TCP Stream and it will show the web server that is used 
+![1664010125784](https://user-images.githubusercontent.com/100435004/192090208-30f03863-9d07-4ff6-bd57-a5e77b925d12.jpg)
+
 
 
 
