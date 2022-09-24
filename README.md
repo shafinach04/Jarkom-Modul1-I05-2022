@@ -28,9 +28,9 @@ To filter the port that it only picks up coming from port 443 type into the filt
 ## 6
 ## Question
 Filter so that wireshark only shows packets going to lipi.go.id !
-
 ## Answer
 To find packet lipi.go.id, we filter with “tcp contains lipi.go.id”
+![Screen Shot 2022-09-24 at 14 47 06](https://user-images.githubusercontent.com/112918215/192086896-1cfa08af-f271-41d2-92cf-4ae5d909e2e8.jpeg)
 
 ## 7
 ## Question
