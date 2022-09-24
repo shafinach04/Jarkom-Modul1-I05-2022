@@ -21,7 +21,7 @@ Mention the web server used on "monta.if.its.ac.id"
 ## 5
 ## Question
 Filter so that wireshark only picks up packets coming from port 443!
-
+![Screen Shot 2022-09-24 at 14 42 48](https://user-images.githubusercontent.com/112918215/192086717-6b2f782b-1b4b-44ab-b1df-2f1d483eed18.jpeg)
 
 ## Answer
 To filter the port that it only picks up coming from port 443 type into the filter bar: "tcp.srcport == 443"
